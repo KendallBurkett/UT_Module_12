@@ -53,14 +53,14 @@ The analysis is implemented across two Jupyter Notebooks:
 ## Installation
 
 1. **Prerequisites**:
-- Python 3.x
-- MongoDB installed locally or cloud-hosted via MongoDB Atlas
-- Jupyter Notebook
+   - Python 3.x
+   - MongoDB installed locally or cloud-hosted via MongoDB Atlas
+   - Jupyter Notebook
 
 #2. **Setup**:
-- Clone this repository or download the project files.
+   - Clone this repository or download the project files.
      
-- Install dependencies (if needed):
+   - Install dependencies (if needed):
 ```bash
      pip install -r requirements.txt
 ```
