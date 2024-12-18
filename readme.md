@@ -57,7 +57,7 @@ The analysis is implemented across two Jupyter Notebooks:
    - MongoDB installed locally or cloud-hosted via MongoDB Atlas
    - Jupyter Notebook
 
-#2. **Setup**:
+2. **Setup**:
    - Clone this repository or download the project files.
      
    - Install dependencies (if needed):
