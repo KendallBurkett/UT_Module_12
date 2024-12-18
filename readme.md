@@ -1,6 +1,5 @@
 ## NoSQL Databases
 ---
-
 # NoSQL Database Setup and Analysis
 
 ## Table of Contents
