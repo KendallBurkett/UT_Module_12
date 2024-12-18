@@ -9,7 +9,6 @@
 - [Features](#features)
 - [Installation](#installation)
 - [Results](#results)
-- [Author](#author)
 
 ---
 
@@ -74,10 +73,3 @@ The analysis is implemented across two Jupyter Notebooks:
 2.	Business types such as restaurants and cafes dominate the dataset.
 3.	Analysis reveals insights into the cleanliness and management confidence of establishments.
 ---
-
-## Author
-
-**Kendall Burkett**  
-https://github.com/KendallBurkett?tab=repositories
- 
-kbz1987@icloud.com
